@@ -1,12 +1,33 @@
-┌─────────────────────────────────────────────┐
-│                                             │
-│       ☁️       🌸 EVRILLIA 🌸      ☁️         │
-│                                             │
-│  Data Analyst • Data Scientist • Fullstack  │
-│                                             │
-│            /\_/\\                           │
-│          =( ◕‿◕ )= 🌸                       │
-│                                             │
-│     ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿                     │
-│                                             │
-└─────────────────────────────────────────────┘
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <rect width="1200" height="320" fill="#FFF5FA"/>
+
+  <circle cx="120" cy="80" r="25" fill="#FFD6E8"/>
+  <circle cx="145" cy="70" r="20" fill="#FFD6E8"/>
+  <circle cx="170" cy="85" r="22" fill="#FFD6E8"/>
+
+  <text x="600"
+        y="140"
+        text-anchor="middle"
+        font-size="42"
+        font-family="Verdana"
+        fill="#D96C9E"
+        font-weight="bold">
+      🌸 Welcome to Evrillia's Pixel Garden 🌸
+  </text>
+
+  <text x="600"
+        y="190"
+        text-anchor="middle"
+        font-size="22"
+        font-family="Verdana"
+        fill="#8A5C6B">
+      Data Analyst • Data Scientist • Fullstack Developer • IoT Learner
+  </text>
+
+  <text x="600"
+        y="255"
+        text-anchor="middle"
+        font-size="60">
+      🐈 🌸 ☕ 💻
+  </text>
+</svg>
