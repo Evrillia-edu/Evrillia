@@ -66,18 +66,6 @@ Hi! I'm **Evrillia** 👋
 <img src="./assets/divider.svg" width="700"/>
 </p>
 
-# ☕ Coffee Energy
-
-<p align="center">
-<img src="./assets/coffee.svg" width="700"/>
-</p>
-
----
-
-<p align="center">
-<img src="./assets/divider.svg" width="700"/>
-</p>
-
 # 📚 Learning Journey
 
 <p align="center">
@@ -156,20 +144,6 @@ Hi! I'm **Evrillia** 👋
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evrillia-edu&theme=rose-pine&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-<img src="./assets/divider.svg" width="700"/>
-</p>
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Evrillia-edu/Evrillia-edu/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
