@@ -1,238 +1,194 @@
-# Evrillia
 <div align="center">
 
-# 🌸 Welcome to Evrillia's Pixel Garden 🌸
-
-<img src="./assets/banner.svg" width="100%">
-
-<img src="./assets/typing.svg" width="500"/>
-
-<br>
-
-🌷 Data Analyst • 📊 Data Scientist • 💻 Fullstack Developer • 🤖 IoT Learner
+<img src="./assets/banner.svg" width="100%" />
 
 <br><br>
 
-<a href="#about">🏡 Home</a> •
-<a href="#about">🌸 About</a> •
-<a href="#tech-stack">💻 Tech Stack</a> •
-<a href="#projects">📂 Projects</a> •
-<a href="#learning-journey">📚 Learning</a> •
-<a href="#contact">💌 Contact</a>
+<img src="./assets/typing.svg" width="700"/>
+
+<h1>🌸 Welcome to Evrillia's Pixel Garden 🌸</h1>
+
+<p>
+Data Analyst • Data Scientist • Fullstack Developer • IoT Learner
+</p>
 
 </div>
 
 ---
 
-<img src="./assets/divider.svg">
+<p align="center">
+<img src="./assets/cloud.svg" width="700"/>
+</p>
 
-# 🌸 About Me
+<p align="center">
+<img src="./assets/divider.svg" width="700"/>
+</p>
 
-<img align="right" width="220" src="./assets/cat.svg"/>
+# 🌷 About Me
 
-Hi! I'm **Evrillia** 💕
+<table>
+<tr>
 
-I enjoy transforming **raw data into meaningful insights**, building **modern web applications**, and exploring **IoT technologies** to solve real-world problems.
+<td width="65%">
 
-Currently, I'm focusing on:
+Hi! I'm **Evrillia** 👋
 
-- 📊 Data Analysis
-- 🧠 Data Science
-- 💻 Fullstack Development
-- 📡 Internet of Things (IoT)
-- ☁️ Cloud & Deployment
-- 🌱 Continuous Learning
+🌸 Passionate about turning data into meaningful insights.
 
-> *"Every project is another step to becoming a better engineer."*
+📊 Data Analyst & Data Scientist
 
-<br>
+💻 Fullstack Developer
 
----
+🤖 Currently learning IoT
 
-<img src="./assets/divider.svg">
+☕ Coffee makes debugging easier.
 
-# 💌 Currently Brewing
+🌱 Always learning something new every day.
 
-<img src="./assets/coffee.svg" width="180">
+</td>
 
-```text
-☕ Current Focus
+<td align="center">
 
-██████████░░░░░░ 60%
+<img src="./assets/mochi.svg" width="180"/>
 
-🌸 Learning ESP32
-🌸 Building IoT Dashboard
-🌸 Improving Machine Learning Skills
-🌸 Exploring Data Visualization
-```
+</td>
+
+</tr>
+</table>
 
 ---
 
-<img src="./assets/divider.svg">
+<p align="center">
+<img src="./assets/butterfly.svg" width="700"/>
+</p>
+
+<p align="center">
+<img src="./assets/divider.svg" width="700"/>
+</p>
+
+# ☕ Coffee Energy
+
+<p align="center">
+<img src="./assets/coffee.svg" width="700"/>
+</p>
+
+---
+
+<p align="center">
+<img src="./assets/divider.svg" width="700"/>
+</p>
 
 # 📚 Learning Journey
 
-| Skill | Progress |
-|-------|----------|
-| Python | ██████████ 95% |
-| SQL | ██████████ 95% |
-| Data Analysis | █████████░ 90% |
-| Machine Learning | ████████░░ 80% |
-| Laravel | █████████░ 90% |
-| React | ███████░░░ 70% |
-| Docker | ██████░░░░ 60% |
-| ESP32 / IoT | █████░░░░░ 50% |
+<p align="center">
+<img src="./assets/progress.svg" width="700"/>
+</p>
 
 ---
 
-<img src="./assets/divider.svg">
+<p align="center">
+<img src="./assets/sakura.svg" width="700"/>
+</p>
+
+<p align="center">
+<img src="./assets/divider.svg" width="700"/>
+</p>
+
+# 🏡 Pixel Workspace
+
+<p align="center">
+<img src="./assets/room.svg" width="850"/>
+</p>
+
+---
+
+<p align="center">
+<img src="./assets/divider.svg" width="700"/>
+</p>
 
 # 💻 Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
+<img src="https://skillicons.dev/icons?i=python,r,mysql,postgresql,tensorflow,pytorch,pandas,numpy"/>
 
-<img src="https://skillicons.dev/icons?i=python,js,php,java,cpp"/>
+<br><br>
 
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nodejs"/>
 
-### Frontend
+<br><br>
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react"/>
-
-</p>
-
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express"/>
-
-</p>
-
-### Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase"/>
-
-</p>
-
-### Data Science
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,docker,vscode,github,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,firebase,arduino,vscode"/>
 
 </p>
 
 ---
 
-<img src="./assets/divider.svg">
+<p align="center">
+<img src="./assets/divider.svg" width="700"/>
+</p>
 
-# 📂 Featured Projects
+# 🚀 Currently Brewing
 
-🌸 Data Analytics Dashboard
-
-📈 Machine Learning Classification
-
-💻 Laravel Fullstack Application
-
-🤖 IoT Monitoring System
-
-🌱 More projects coming soon...
-
----
-
-<img src="./assets/divider.svg">
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent"/>
-
-</div>
-
----
-
-<img src="./assets/divider.svg">
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-
-</div>
-
----
-
-<img src="./assets/divider.svg">
-
-# ☕ Pixel Coffee Counter
-
-```text
-Today's Energy
-
-☕☕☕☕☕☕☕░░░
-
-Coffee Level : 70%
+```txt
+🌸 AI & Machine Learning Projects
+💻 Fullstack Web Development
+🤖 IoT Experiments
+📊 Data Visualization Dashboard
 ```
 
 ---
 
-<img src="./assets/divider.svg">
+<p align="center">
+<img src="./assets/divider.svg" width="700"/>
+</p>
 
-# 🌸 Pixel Room
-
-<div align="center">
-
-<img src="./assets/room.svg" width="600">
-
-</div>
-
----
-
-<img src="./assets/divider.svg">
-
-# 💌 Contact
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Evrillia-edu&show_icons=true&theme=rose_pine&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evrillia-edu&layout=compact&theme=rose_pine&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Evrillia-edu&theme=rose-pine&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+<img src="./assets/divider.svg" width="700"/>
+</p>
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Evrillia-edu/Evrillia-edu/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+<p align="center">
+<img src="./assets/divider.svg" width="700"/>
+</p>
+
+# 💌 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/Evrillia Kurniawati">
+<img src="https://img.shields.io/badge/LinkedIn-FFC0D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="https://github.com/Evrillia-edu">
+<img src="https://img.shields.io/badge/GitHub-F8BBD0?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -241,12 +197,10 @@ Coffee Level : 70%
 
 <div align="center">
 
-<img src="./assets/mochi.svg" width="180">
+<img src="./assets/mochi.svg" width="90"/>
 
-### 🌸 Thank you for visiting my Pixel Garden 🌸
+### 🌸 Thanks for visiting my Pixel Garden 🌸
 
-*"Keep learning, keep building, keep growing."*
-
-⭐ If you like my projects, don't forget to leave a star!
+Made with 💖 by **Evrillia**
 
 </div>
