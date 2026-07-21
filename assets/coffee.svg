@@ -47,13 +47,14 @@
         ☕ Coffee Energy
   </text>
 
-  <text x="150"
-        y="90"
-        font-size="15"
-        font-family="Verdana"
-        fill="#8E6A79">
-        Powered by coffee & curiosity
-  </text>
+ <text
+      x="150"
+      y="90"
+      font-size="15"
+      font-family="Verdana"
+      fill="#8E6A79">
+      Powered by coffee &amp; curiosity
+</text>
 
   <!-- Progress -->
   <rect x="150"
