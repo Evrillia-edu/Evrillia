@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900"
+     height="70"
+     viewBox="0 0 900 70">
+
+  <defs>
+    <linearGradient id="line" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#FFD9EC"/>
+      <stop offset="50%" stop-color="#F48FB1"/>
+      <stop offset="100%" stop-color="#FFD9EC"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#FFC2DD"/>
+    </filter>
+  </defs>
+
+  <!-- Left Line -->
+  <line x1="20" y1="35" x2="320" y2="35"
+        stroke="url(#line)"
+        stroke-width="4"
+        stroke-linecap="round"/>
+
+  <!-- Right Line -->
+  <line x1="580" y1="35" x2="880" y2="35"
+        stroke="url(#line)"
+        stroke-width="4"
+        stroke-linecap="round"/>
+
+  <!-- Left Flower -->
+  <text x="335" y="45"
+        font-size="22"
+        filter="url(#glow)">
+      🌸
+      <animateTransform
+          attributeName="transform"
+          type="rotate"
+          values="-8 346 35;8 346 35;-8 346 35"
+          dur="3s"
+          repeatCount="indefinite"/>
+  </text>
+
+  <!-- Cat -->
+  <text x="425" y="46"
+        font-size="28">
+      🐈
+      <animateTransform
+          attributeName="transform"
+          type="translate"
+          values="0 0;0 -3;0 0"
+          dur="1.8s"
+          repeatCount="indefinite"/>
+  </text>
+
+  <!-- Right Flower -->
+  <text x="520" y="45"
+        font-size="22"
+        filter="url(#glow)">
+      🌸
+      <animateTransform
+          attributeName="transform"
+          type="rotate"
+          values="8 531 35;-8 531 35;8 531 35"
+          dur="3s"
+          repeatCount="indefinite"/>
+  </text>
+
+</svg>
